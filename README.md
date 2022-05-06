@@ -1,4 +1,4 @@
-# Fit Guru
+# FitGuru
 
 ## Table of Contents
 * [Background](#background)
