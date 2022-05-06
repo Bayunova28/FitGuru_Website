@@ -13,7 +13,7 @@
 health and physical fitness patterns. FitGuru is designed to help users achieve their desired goals and bring understanding of the importance of healthy living through 
 unique ways. That way, it indirectly provides a special attraction for millennials to join as members of FitGuru. FitGuru was founded in 2019 with the aim of being a 
 model healthcare service digital technology that aims to provide modern health services and education to user. FitGuru is passionate about providing health benefits to 
-users and ready to be a pioneer in the advancement of the health and sports sector in the sector information and technology.<p> 
+users and ready to be a pioneer in the advancement of the health and sports sector in information and technology.<p> 
 
 ## Requirement
 ### Database
