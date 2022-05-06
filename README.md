@@ -74,7 +74,7 @@ CREATE TABLE Workout (
 ```
 ## Feature
 * Mobile Responsive
-* Login Logout
+* Login & Logout
 * Signup
 * CRUD Database (Create, Read, Update & Delete)
 * Product
