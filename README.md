@@ -20,7 +20,7 @@ users and ready to be a pioneer in the advancement of the health and sports sect
 <img src="https://github.com/Bayunova28/Fit-Guru/blob/master/erd-database.png" height="650" width="1000">
   
 ```mysql
-#create database FitGuru
+-- create database FitGuru
 CREATE DATABASE FitGuru;
   
 -- create table product
