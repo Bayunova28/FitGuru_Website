@@ -7,7 +7,7 @@
 * [Creator](#creator)
 
 ## Background
-<img src="https://github.com/Bayunova28/Fit-Guru/blob/master/figuru-cover.png" height="400" width="1000">
+<img src="https://github.com/Bayunova28/Fit-Guru/blob/master/figuru-cover.png" height="500" width="1000">
 
 <p align="justify">FitGuru is a website that brings new innovations in the world of fitness by bringing features that provide many benefits for users to track their 
 health and physical fitness patterns. FitGuru is designed to help users achieve their desired goals and bring understanding of the importance of healthy living through 
