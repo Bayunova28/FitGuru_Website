@@ -41,8 +41,8 @@ CREATE TABLE Subscription (
   Subscription_Id INT NOT NULL PRIMARY KEY,
   Status_Name VARCHAR(50) NOT NULL);
  
--- create table User
-CREATE TABLE Invoice (
+-- create table user
+CREATE TABLE Inuvoice (
   Id_User INT NOT NULL PRIMARY KEY,
   Subscription_Id INT NOT NULL,
   Nama VARCHAR(30) NOT NULL,
