@@ -1,4 +1,4 @@
-# FitGuru
+# FitGuru Web Application
 
 ## Table of Contents
 * [Background](#background)
