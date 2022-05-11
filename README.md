@@ -7,13 +7,15 @@
 * [Creator](#creator)
 
 ## Background
-<img src="https://github.com/Bayunova28/Fit-Guru/blob/master/figuru-cover.png" height="450" width="1000">
-
+<p align="center">
+<img src="https://github.com/Bayunova28/Fit-Guru/blob/master/figuru-cover.png" height="500" width="1000">
+<p>
+  
 <p align="justify">FitGuru web application is a website that brings new innovations in the world of fitness by bringing features that provide many benefits for users to track their health and physical fitness patterns. FitGuru is designed to help users achieve their desired goals and bring understanding of the importance of healthy living through unique ways. That way, it indirectly provides a special attraction for millennials to join as members of FitGuru. FitGuru was founded in 2021 with the aim of being a model healthcare service digital technology that aims to provide modern health services and education to user. FitGuru is passionate about providing health benefits to users and ready to be a pioneer in the advancement of the health and sports sector in information and technology.<p> 
 
 ## Requirement
 ### Database
-<img src="https://github.com/Bayunova28/Fit-Guru/blob/master/erd-database.png" height="700" width="1000">
+<img src="https://github.com/Bayunova28/Fit-Guru/blob/master/erd-database.png" height="750" width="1000">
   
 ```mysql
 -- create database FitGuru
