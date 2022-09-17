@@ -89,5 +89,5 @@ CREATE TABLE Workout (
 * Thendy Rhenaldy
 * Willibrordus Bayu
 
-## Acknowledgment
+## Version
 * Mobile Application : [FitGuru Mobile Application](https://github.com/Bayunova28/FitGuru_Mobile_Application)
