@@ -88,3 +88,6 @@ CREATE TABLE Workout (
 * Nicholas Tjayadi
 * Thendy Rhenaldy
 * Willibrordus Bayu
+
+## Acknowledgment
+* Mobile Application : [FitGuru Mobile Application](https://github.com/Bayunova28/FitGuru_Mobile_Application)
