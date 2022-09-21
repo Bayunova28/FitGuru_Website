@@ -90,4 +90,4 @@ CREATE TABLE Workout (
 * Willibrordus Bayu
 
 ## Version
-* Mobile Application : [FitGuru Mobile Application](https://github.com/Bayunova28/FitGuru_Mobile_Application)
+* Mobile Application : [FitGuru Mobile](https://github.com/Bayunova28/FitGuru_Mobile_Application)
